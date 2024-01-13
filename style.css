@@ -75,7 +75,7 @@ body {
     display: flex;
     align-items: center;
     padding: 0 10%;
-    background: url('bg2.jpg') no-repeat;
+    background: url('img/bg2.jpg') no-repeat;
     background-size: cover;
     background-position: left;
 
